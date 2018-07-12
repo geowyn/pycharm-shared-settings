@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="rv" value="review: [$WHO$] $TEXT$ " description="review comment" toReformat="false" toShortenFQNames="true">
+    <variable name="WHO" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSON" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

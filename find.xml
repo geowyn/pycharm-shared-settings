@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '.../lambda/us-east-1_ClassroomAssistant/index.js [ClassroomAssistant]'" />
+    <option name="defaultScopeName" value="File '.../lambda/us-east-1_ClassroomAssistant/index.js [ClassroomAssistant]'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '.../lambda/us-east-1_ClassroomAssistant/index.js [ClassroomAssistant]'" />
+  </component>
+</application>
