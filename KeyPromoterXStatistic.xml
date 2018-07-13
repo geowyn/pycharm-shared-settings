@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Collapse All">
+        <Item>
+          <IdeaActionID>CollapseAllRegions</IdeaActionID>
+          <ShortCut>'⇧⌘-' or '⇧⌘-'</ShortCut>
+          <Description>Collapse All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
